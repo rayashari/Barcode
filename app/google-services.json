@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "677780305738",
+    "firebase_url": "https://mybanjar-d8320.firebaseio.com",
+    "project_id": "mybanjar-d8320",
+    "storage_bucket": "mybanjar-d8320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677780305738:android:b4997c01550f58a3",
+        "android_client_info": {
+          "package_name": "com.rayashari.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677780305738-m3bl682gsn8rvao0flsba7a29umt66id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rayashari.barcode",
+            "certificate_hash": "2656B641D35DCF709BB64819027BB51B72C981D3"
+          }
+        },
+        {
+          "client_id": "677780305738-hjerd18iirvf95jibfj5i4amf1fdj6sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaUGDR9l-qdc4ZrJ6bpZNG23jzH19grA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677780305738-hjerd18iirvf95jibfj5i4amf1fdj6sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
